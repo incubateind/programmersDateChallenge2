@@ -1,0 +1,18 @@
+What we want to do?
+We as a team ZeroToHero wanted to create a web appication which can be supported in mobiles devices.
+There were many donors who would like to donate food to the needy and some even want to sponsor a family by donating groceries to the familes which needed them. 
+But the problem here is, excss food. Maybe all the donors were confined to one place and there's excess food there where as there are place swhere people couldn't get one proper meal per day. So we decided to create a web application where the donor can findout the places where tere is food requiremnt and can donate it there. 
+If the donor cannot go to the place where there is food requirement, the volunteers who are going to that area can pick these food packets from donors.
+In this way, food can be distributed equally and and there wil be no deaths out of hunger.
+
+What we have done?
+We have created a web application which consists of 131 areas in Visakhapatnam in Andhra Pradesh. In this application the recievers can update the necessity of food in numbers by adding the details in food request category.
+Say for example, if a reciever lives in a place called Asilmetta and there is a food requirement for 50 people. He or she will post it as a request stating that there are 50 packets of food required. Now when the donor selects the same area it will be asking whether the donor wants to donate cooked food packets or groceries.
+If the donor wants to donate food packets then he/she needs to specify the quantity i.e, number of food packets. If the donor specifies a quantity of 20 packets then to another donor who selects this location the requirement will be 30 food packets (50-20=30).
+If the donor wants to donate groceries like rice, wheat, dal, sugar etc. he/she can should specify the quantity so that it can be distributed to the needy properly.
+
+What we would like to add?
+We would like to use maps for easy location tracing. We would like to add one more option where a donor can sponsor daily essentials to a family consisting of 4 members for 1 week at a time. In this option, the list of the essentials along with the quantity will be specified. So that the donor can buy them accordingly and send it to the needy family.
+
+Project working
+Just run app.py file no additional things to do..
